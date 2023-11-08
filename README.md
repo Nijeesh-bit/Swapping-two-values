@@ -32,7 +32,7 @@ y=z
 print("Swapped values are:",x,y)
 ```
 ## Output:
-![Alt text](image.png)
+![image](https://github.com/Nijeesh-bit/Swapping-two-values/assets/89188014/5d2c5b91-8d30-4ac0-9d0a-b1dd260656b9)
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
